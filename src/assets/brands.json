@@ -1,0 +1,57 @@
+[
+    {
+        "id": 1,
+        "name": "Lenova",
+        "count": 6
+    },
+    {
+        "id": 2,
+        "name": "Asus",
+        "count": 15
+    },
+    {
+        "id": 3,
+        "name": "Acer",
+        "count": 7
+    },
+    {
+        "id": 4,
+        "name": "Macbook",
+        "count": 4
+    },
+    {
+        "id": 5,
+        "name": "Casper",
+        "count": 0
+    },
+    {
+        "id": 6,
+        "name": "Toshiba",
+        "count": 5
+    },
+    {
+        "id": 7,
+        "name": "HP",
+        "count": 0
+    },
+    {
+        "id": 9,
+        "name": "Sony",
+        "count": 0
+    },
+    {
+        "id": 10,
+        "name": "LG",
+        "count": 0
+    },
+    {
+        "id": 11,
+        "name": "Moni",
+        "count": 0
+    },
+    {
+        "id": 12,
+        "name": "Samsung",
+        "count": 11
+    }
+]
